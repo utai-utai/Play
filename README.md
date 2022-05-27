@@ -47,5 +47,5 @@ This code doesn't need any other package, but it can only use 9-23.
 このコードはAIを練習します。
 ## 3.3 watch.py
 このコードはauto.pyの結果を見ます。
-# 4.の練習
+# 4.TOFIL ibtの練習
 このコードは他の物は必要はありません，でも第9-23課しか使用しません。
